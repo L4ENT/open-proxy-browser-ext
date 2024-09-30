@@ -10,7 +10,10 @@ Open Proxy Browser Extension is an open-source Chrome extension that allows user
 - Clear proxy settings with one click.
 - Secure, transparent, and open-source code.
 
-## Installation
+## Install from Chrome Web Store
+You can simply add the extension to your browser from the [Chrome Web Store](https://chromewebstore.google.com/detail/open-proxy-browser-ext/plackjandikjjmlcfigiclkooooafoic)
+
+## Install from sources
 
 1. Clone the repository to your local machine:
     ```bash
